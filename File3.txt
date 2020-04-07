@@ -1,5 +1,1 @@
 This is the third file in the projects.
-
-Please add contactus page
--- Add contact details of Company 
--- Create field for user to enter his personal details
